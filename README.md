@@ -1,0 +1,2 @@
+Видео - https://yandex.ru/video/preview/3028223908990887648
+git - https://github.com/stepanovs2005/Demo2025
